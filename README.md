@@ -5,6 +5,8 @@ This repository contains the files of the various challenges
    i) card.html
    ii) cards.css
    iii) image.jpg
+   iv) card clone output.jpg
    
-2) CLI Unit Converter (22-06-2025)
+3) CLI Unit Converter (22-06-2025)
    i) cli.py
+   ii) cli output.jpg
