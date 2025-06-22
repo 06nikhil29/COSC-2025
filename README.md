@@ -1,2 +1,2 @@
-# COSC-2025
-Project files of the challenges of COSC 2025
+# Amazon Card Clone
+HTML and CSS files of the card clone
